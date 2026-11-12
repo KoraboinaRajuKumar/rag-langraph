@@ -1,0 +1,10 @@
+langgraph
+langchain_groq
+python_dotenv
+pydantic
+langchain_chroma
+langchain_openai
+langchain-community
+pypdf
+pydantic_settings
+
